@@ -15,7 +15,7 @@ Can view table here : [retiring_titles.csv]( https://github.com/fisher-n/Pewlett
 - There are 72,458 employees who are eligible to retire.
 - One third are Senior Engineers and the other third are Senior Staff. 
 
-###Deliverable 2 – Eligible Employees for the Mentorship Program
+### Deliverable 2 – Eligible Employees for the Mentorship Program
 ![This is an image]( https://github.com/fisher-n/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
 Can view table here : [mentorship_eligibilty.csv](https://github.com/fisher-n/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv) 
