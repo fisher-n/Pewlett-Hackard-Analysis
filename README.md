@@ -18,6 +18,8 @@ Can view table here : [retiring_titles.csv]( https://github.com/fisher-n/Pewlett
 ###Deliverable 2 – Eligible Employees for the Mentorship Program
 ![This is an image]( https://github.com/fisher-n/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
+Can view table here : [mentorship_eligibilty.csv](https://github.com/fisher-n/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv) 
+
 - There are 1,551 employees who are eligible for the mentorship program.
 - The company has less employees who can one-on-one mentor new hires than the number of new hires needed.
 
